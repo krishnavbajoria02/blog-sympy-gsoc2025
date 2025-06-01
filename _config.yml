@@ -1,2 +1,6 @@
 theme: minima
 author: Krishnav Bajoria
+description: My GSoC 2025 journey with SymPy
+url: "https://krishnavbajoria02.github.io/blog-sympy-gsoc2025"
+plugins:
+  - jekyll-feed
