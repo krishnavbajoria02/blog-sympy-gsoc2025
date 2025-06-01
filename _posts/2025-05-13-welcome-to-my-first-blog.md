@@ -1,5 +1,5 @@
 ---
-title: "WELCOME TO MY FIRST BLOG"
+title: "Welcome To My First Blog"
 date: 2025-05-13
 ---
-Hello everyone, welcome to my first blog where I will share my journey of how I got selected for Google Summer of Code 2025 in SymPy organisation. 
+Hello everyone, welcome to my blog. I will be sharing all major updates and progress on my GSoC project through this blog. Stay tuned.
